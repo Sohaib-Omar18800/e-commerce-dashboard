@@ -2,7 +2,7 @@
 
 An interactive corporate-grade dashboard built entirely in Microsoft Excel, leveraging **Power Query** for advanced ETL processes and **Power Pivot** for professional data modeling to analyze US marketplace distributions and tracking sales parameters from 2021 to 2022.
 
-![E-Commerce Sales](ecommerce%20sales%20dashboard.png)
+![E-Commerce Sales](ecommerce%20sale.png)
 
 ## 🎯 Project Objectives & Insights
 * **Sales & Order Tracking:** Analyzed a total revenue of $23.1M across 113,270 orders, uncovering October as the highest-performing month.
